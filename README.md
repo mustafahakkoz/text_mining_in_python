@@ -5,6 +5,7 @@
 150117509 Mustafa Abdullah Hakkoz  
 150115841 Erman Kundakcıoğlu  
 
+Reading all kinds of text files, cleaning input data, filtering stopwords, calculating tf-idf values and creating word-clouds.
 
 ## [manual](https://github.com/mustafahakkoz/text_mining_in_python/blob/master/MANUAL.txt)
 
